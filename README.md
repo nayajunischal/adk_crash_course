@@ -52,7 +52,7 @@ For the Sessions and State (5) and Persistent Storage (6) agents, run them direc
 1. For Question Answering Agent:
 ```bash
 cd 5-sessions-and-state/question_answering_agent
-python main.py
+python basic_stateful_session.py
 ```
 
 2. For Pizza Order Agent:
